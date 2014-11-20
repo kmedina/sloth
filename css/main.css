@@ -1,7 +1,7 @@
 html {font-size: 1em;}
 body {background-color: white;background-image: url(../img/optimized-bckg.jpg);background-size: 100%;background-attachment: fixed;font-family: 'Roboto', serif;font-weight: 400;line-height: 1.5;color: #333;}
 p {margin-bottom: 1.3em;}
-h1, h2, h3, h4 {margin: 1.414em 0 0.5em;font-weight: inherit;line-height: 1.2;font-family: "Lora", serif;}
+h1, h2, h3, h4 {margin: 1.414em 0 0.5em;font-weight: inherit;line-height: 1.2;font-family: "Times New Roman", Georgia, Serif;}
 h1 {margin-top: 0;font-size: 3.998em;}
 h2 {font-size: 2.827em;}
 h3 {font-size: 1.999em;}
@@ -18,7 +18,7 @@ img { max-width: 100%; }
   .float-left { float: left; }
   img { margin: 0.5em; }
 }
-table{background-color: whiteSmoke;font-family: 'Inconsolata', monospace;}
+table{background-color: whiteSmoke;font-family: "Lucida Console", Monaco, monospace;}
 caption {padding-top: 8px;padding-bottom: 8px;color: #777;text-align: left;}
 th {text-align: left;}
 .table {width: 100%;max-width: 100%;margin-bottom: 20px;vertical-align: bottom;border-bottom: 2px solid #ddd;}
