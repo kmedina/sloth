@@ -59,3 +59,34 @@ img { max-width: 100%; }
   .float-left { float: left; }
   img { margin: 0.5em; }
 }
+table{
+  background-color: whiteSmoke;
+  font-family: 'Inconsolata', monospace;
+}
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #777;
+  text-align: left;
+}
+th {
+  text-align: left;
+}
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddd;
+}
+.tableContent{
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+.table{
+  border:1px solid #ddd
+}
+
+
